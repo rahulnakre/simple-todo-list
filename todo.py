@@ -4,6 +4,8 @@ def run() -> None:
     print('Menu')
     print("1) View Todo")
     print("2) Add Task")
+    #3) add funtionlaity to strikethrough item from the list
+    #4) add funtionality to delete from the list completely***
     i = input("What would you like to do?: ")
 
 
