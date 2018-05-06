@@ -14,7 +14,7 @@ def run() -> None:
 
     run()
 
-
+#future use: sometimes we say the right thing but type it wrong, this should help with that
 def case_generator(s: str) -> 'List[str]':
     '''Returns list with all possible uppercase &
     lowercase combinations of string s
